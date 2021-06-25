@@ -3,7 +3,7 @@ Nombre: Diego Lima
 
 Nrc:5416
 
-# trabajo Extra
+# Trabajo Extra
 
 1. Objetivos
 
