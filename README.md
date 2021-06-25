@@ -177,7 +177,7 @@ Serian 5 mediciones de resistencia en total.
 
 
 •	Tercero.- Como tenemos 16 focos en la mitad de la derecha, donde presento una falla, tenemos que simplificar la medición del error, reduciéndolo a la mitad,  dándonos dos grupos de 8, con el objetivo de saber con más exactitud donde se ubica nuestro foco averiado. 
-![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/f3.jpg)
+
 
 •	Cuarto.- Sabiendo  que el error se encuentra en el  grupo de 8 focos empezando por la izquierda, solo nos queda reducir aún más el circuito, dividendo en 2 grupos de 4 focos.
 
