@@ -68,7 +68,11 @@ Objetivos Específicos
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/8.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/8.1.jpg)
-3. Conclusiones
+
+9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/9.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/9.1.jpg)
+11. Conclusiones
 
 * En los circuitos eléctricos la ley de Ohm establece que la tensión V a lo largo de un resistor es directamente proporcional a la corriente I que fluye a través del resistor, la cual nos permite calcular  voltaje, corriente y resistencia en un circuito electrico dc .
 * El metodo de localizacion de fallas nos permite ubicar con presicion el foco fundido en el circuito electrico , meadiante el razonamiento logico combinado con el conocimiento de la operacion en un circuito. Sin embargo tenemos que tomar en cuenta que entre mas elementos exista en el circuito, mayor sera el numero de divisiones y mediciona a realizar para encontrar el error o el foco averiado .
