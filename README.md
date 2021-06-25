@@ -61,6 +61,9 @@ Objetivos Específicos
    Como es el mismo circuito la resistencia será la misma para todos los cálculos de los voltajes.
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/6.jpg)
 
+7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/7.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/7.1.jpg)
 
 3. Conclusiones
 
