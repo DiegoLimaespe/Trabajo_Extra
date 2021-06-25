@@ -127,7 +127,19 @@ Objetivos Específicos
 ¿Cuánto voltaje produce la fuente?
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/25.jpg)
 
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/26.jpg)
 
+27. Se conecta una fuente de 6 V a un resistor de 100 Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 Ω. Determine lo siguiente:
+(a) Corriente
+(b) Caída de voltaje en el resistor
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/27.jpg)
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/28.jpg)
+
+29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/29.jpg)
 
 
 
