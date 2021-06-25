@@ -3,6 +3,8 @@ Nombre: Diego Lima
 
 Nrc:5416
 
+Materia: Fundamentos de Circuitos Eléctricos
+
 # Trabajo Extra
 
 1. Objetivos
