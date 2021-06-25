@@ -181,6 +181,7 @@ Serian 5 mediciones de resistencia en total.
 
 •	Cuarto.- Sabiendo  que el error se encuentra en el  grupo de 8 focos empezando por la izquierda, solo nos queda reducir aún más el circuito, dividendo en 2 grupos de 4 focos.
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/f4.jpg)
+
 •	Quinto.- Ahora que sabemos que nuestro foco averiado se encuentra entre los 4 focos empezando por  la izquierda solo nos queda reducir el circuito una última vez dividiéndolo en dos  grupos de dos y hallaremos nuestro foco fundido.
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/f5.jpg)
 
