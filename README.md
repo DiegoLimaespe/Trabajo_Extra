@@ -11,12 +11,13 @@ Materia: Fundamentos de Circuitos Eléctricos
 
  Objetivos Generales
 
-* Comprender cual es la relación entre voltaje, corriente y resistencia para la resolución de circuitos y aprender un metodo basico para la hubicacion de fallas..
+* Lograr identificar y hacer análisis de los fenómenos eléctricos, mediante la resolucion de ejercicios y aprender un metodo basico para la hubicacion de fallas en los circuitos.
 
 Objetivos Específicos
 
-* Saber Calcular la corriente, voltaje y resistencia aplicando la ley de ohm.
-* Objetivo espe 2
+* Calcular la corriente, voltaje y resistencia en un circuito dc, aplicando la ley de ohm.
+* Determinar la relación entre corriente y voltaje
+* Analizar un metodo basico de abordar la localizacion de fallas. 
 
 
 2.Resolución de los ejercicios
