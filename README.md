@@ -18,11 +18,11 @@ Objetivos Específicos
 * Resolver los ejercicios del capítulo 3 del libro, Principios de circuitos de Floyd.
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente:
 
-a.	El voltaje se triplica.
+    a.	El voltaje se triplica.
 
-Por ley sabemos que cuando el voltaje aumente la corriente también así que cuando el voltaje se triplica la corriente también se triplica.
+      Por ley sabemos que cuando el voltaje aumente la corriente también así que cuando el voltaje se triplica la corriente también se triplica.
 
-b.	El voltaje se reduce un 75%.
+    b.	El voltaje se reduce un 75%.
 
 Si el voltaje se reduce en 75% la corriente también se reduce en 75%.
 
