@@ -20,7 +20,7 @@ Objetivos Específicos
 
    a.	El voltaje se triplica.
 
-     Por ley sabemos que cuando el voltaje aumente la corriente también así que cuando el voltaje se triplica la corriente también se triplica.
+      Por ley sabemos que cuando el voltaje aumente la corriente también así que cuando el voltaje se triplica la corriente también se triplica.
 
    b.	El voltaje se reduce un 75%.
 
