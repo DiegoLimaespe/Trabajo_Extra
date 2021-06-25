@@ -24,23 +24,23 @@ Objetivos Específicos
 
     b.	El voltaje se reduce un 75%.
 
-Si el voltaje se reduce en 75% la corriente también se reduce en 75%.
+       Si el voltaje se reduce en 75% la corriente también se reduce en 75%.
 
-c.	La resistencia se duplica.
+    c.	La resistencia se duplica.
 
-Por ley sabemos que la resistencia y la corriente son inversamente proporcionales así que cuando la resistencia se duplica la corriente se reducirá  a la mitad.
+       Por ley sabemos que la resistencia y la corriente son inversamente proporcionales así que cuando la resistencia se duplica la corriente se reducirá  a la mitad.
 
-d.	La resistencia de reduce en un 35%.
+    d.	La resistencia de reduce en un 35%.
 
-Si la resistencia se reduce un 35% la corriente aumenta un 35%.
+       Si la resistencia se reduce un 35% la corriente aumenta un 35%.
 
-e.	El voltaje se duplica y la resistencia se reduce a la mitad.
+    e.	El voltaje se duplica y la resistencia se reduce a la mitad.
 
-La corriente será igual a 4 veces su valor inicial.
+       La corriente será igual a 4 veces su valor inicial.
 
-f.	el voltaje y la resistencia se duplican.
+    f.	el voltaje y la resistencia se duplican.
 
-La corriente no cambiara.
+       La corriente no cambiara.
 
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/1.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/2.jpg)
