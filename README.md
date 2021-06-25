@@ -169,6 +169,7 @@ Objetivos Específicos
 37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
 Serian 5 mediciones de resistencia en total.
+
 •	Primero.- Tenemos 32 focos en serie, entre ellos el décimo séptimo foco de la derecha se encuentra  averiado.
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/f1.jpg)
 
