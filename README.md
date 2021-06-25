@@ -54,6 +54,13 @@ _Objetivos Específicos_
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/28.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/29.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/30.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/32.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/33.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/34.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/35.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/36.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/37.jpg)
+
 3. Conclusiones0
 
 * ASA
