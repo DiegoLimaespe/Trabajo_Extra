@@ -56,6 +56,10 @@ Objetivos Específicos
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/5.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/5.2.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/5.1.jpg)
+6. En cierto circuito, I =5mA cuando V =1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+
+Como es el mismo circuito la resistencia será la misma para todos los cálculos de los voltajes.
+
 
 
 3. Conclusiones
