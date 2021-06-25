@@ -66,7 +66,7 @@ Objetivos Específicos
 
 3. Conclusiones
 
-* ASA
-* ASA
+* En los circuitos eléctricos la ley de Ohm establece que la tensión V a lo largo de un resistor es directamente proporcional a la corriente I que fluye a través del resistor.
+* La ley de ohm nos permite calcular voltaje, corriente y resistencia en un circuito electrico dc
 
 4. Bibliografía
