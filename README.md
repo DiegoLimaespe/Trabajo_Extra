@@ -19,7 +19,7 @@ _Objetivos Específicos_
 
 2.Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 3 del libro, Principios de circuitos de Floyd.
-![](Link de la imagen)
+![](://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/1.jpg)
 3. Conclusiones
 
 * ASA
