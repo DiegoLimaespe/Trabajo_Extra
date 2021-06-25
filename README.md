@@ -39,6 +39,21 @@ _Objetivos Específicos_
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/13.3.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/13.4.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/13.5.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/14.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/15.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/16.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/17.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/18.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/19.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/22.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/23.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/24.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/25.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/26.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/27.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/28.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/29.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/30.jpg)
 3. Conclusiones0
 
 * ASA
