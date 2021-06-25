@@ -1,9 +1,3 @@
-# Universidad de las Fuerzas Armadas-ESPE
-Nombre: Diego Lima
-
-Nrc:5416
-
-Materia: Fundamentos de Circuitos Eléctricos
 
 # Trabajo Extra
 
