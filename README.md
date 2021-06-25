@@ -99,7 +99,11 @@ Objetivos Específicos
 16. Determine la corriente en cada caso:
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/16.jpg)
 
+17. Se conecta un resistor de 10 Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/17.jpg)
 
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/18.jpg)
 
 11. Conclusiones
 
