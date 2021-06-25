@@ -166,6 +166,16 @@ Objetivos Específicos
    El foco averiado es el cuarto foco empezando por la izquierda, ya que aplicamos el método de división para facilitarnos la búsqueda de la falla, dividiendo primero por la mitad en 2 grupos de 4 focos y volviendo a dividir en la mitad, dándonos 2 grupos de dos focos y mostrándonos una resistencia infinita en el grupo de dos focos de la derecha, de tal forma que localizamos el foco averiado.
 
 
+37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+
+Serian 5 mediciones de resistencia en total.
+•	Primero.- Tenemos 32 focos en serie, entre ellos el décimo séptimo foco de la derecha se encuentra  averiado.
+•	Segundo.- Aplicamos el método de división con el objetivo de hallar la falla, dividiendo en 2 grupos de 16, dándonos cuenta que en la primera mitad de la izquierda da una resistencia adecuada y dejándonos saber que la falla está en la segunda mitad de la derecha.
+•	Tercero.- Como tenemos 16 focos en la mitad de la derecha, donde presento una falla, tenemos que simplificar la medición del error, reduciéndolo a la mitad,  dándonos dos grupos de 8, con el objetivo de saber con más exactitud donde se ubica nuestro foco averiado. 
+•	Cuarto.- Sabiendo  que el error se encuentra en el  grupo de 8 focos empezando por la izquierda, solo nos queda reducir aún más el circuito, dividendo en 2 grupos de 4 focos.
+•	Quinto.- Ahora que sabemos que nuestro foco averiado se encuentra entre los 4 focos empezando por  la izquierda solo nos queda reducir el circuito una última vez dividiéndolo en dos  grupos de dos y hallaremos nuestro foco fundido.
+
+
 
 
 
