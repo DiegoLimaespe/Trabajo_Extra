@@ -93,6 +93,14 @@ Objetivos Específicos
 
     En un circuito lineal de resistencia fija, si aumentamos el voltaje, la corriente aumenta y, de manera similar, si disminuimos el voltaje, la corriente disminuye de tal         forma que si presenta una relación línea.
 
+15. Determine la corriente en cada caso:
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/15.jpg)
+
+16. Determine la corriente en cada caso:
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/16.jpg)
+
+
+
 11. Conclusiones
 
 * En los circuitos eléctricos la ley de Ohm establece que la tensión V a lo largo de un resistor es directamente proporcional a la corriente I que fluye a través del resistor, la cual nos permite calcular  voltaje, corriente y resistencia en un circuito electrico dc .
