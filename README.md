@@ -70,3 +70,4 @@ Objetivos Específicos
 * El metodo de localizacion de fallas nos permite ubicar con presicion el foco fundido en el circuito electrico , meadiante el razonamiento logico combinado con el conocimiento de la operacion en un circuito. Sin embargo tenemos que tomar en cuenta que entre mas elementos exista en el circuito, mayor sera el numero de divisiones y mediciona a realizar para encontrar el error o el foco averiado .
 
 4. Bibliografía
+* Floyd, Thomas L. (2007). Principios de circuitos eléctricos. Octava edición. México: PEARSON EDUCACIÓN.
