@@ -141,7 +141,18 @@ Objetivos Específicos
 29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/29.jpg)
 
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/30.jpg)
 
+31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con
+120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/31.jpg)
+
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/32.jpg)
+
+33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/33.jpg)
 
 
 
