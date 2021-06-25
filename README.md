@@ -11,12 +11,11 @@ Materia: Fundamentos de Circuitos Eléctricos
 
  Objetivos Generales
 
-* Objetivo 1
-* Objetivo n
+* Comprender cual es la relación entre voltaje, corriente y resistencia para la resolución de circuitos.
 
 Objetivos Específicos
 
-* Objetivo espe 1
+* Saber Calcular la corriente, voltaje y resistencia aplicando la ley de ohm.
 * Objetivo espe 2
 
 
