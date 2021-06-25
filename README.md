@@ -78,6 +78,16 @@ Objetivos Específicos
 
 11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/11.jpg)
+
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/12.jpg)
+
+13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/13.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/13.2.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/13.3.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/13.4.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/13.5.jpg)
 11. Conclusiones
 
 * En los circuitos eléctricos la ley de Ohm establece que la tensión V a lo largo de un resistor es directamente proporcional a la corriente I que fluye a través del resistor, la cual nos permite calcular  voltaje, corriente y resistencia en un circuito electrico dc .
