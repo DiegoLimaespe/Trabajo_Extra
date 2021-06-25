@@ -5,7 +5,7 @@
 
  Objetivos Generales
 
-* Lograr identificar y hacer análisis de los fenómenos eléctricos, mediante la resolucion de ejercicios incluso aprender un metodo basico para la hubicacion de fallas en los circuitos.
+*  Analizar los fenómenos eléctricos, mediante la resolucion de ejercicios empleando la ley de ohm y aprender un metodo basico para la hubicacion de fallas en los circuitos.
 
 Objetivos Específicos
 
