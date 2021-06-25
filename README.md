@@ -11,7 +11,7 @@ Materia: Fundamentos de Circuitos Eléctricos
 
  Objetivos Generales
 
-* Lograr identificar y hacer análisis de los fenómenos eléctricos, mediante la resolucion de ejercicios y aprender un metodo basico para la hubicacion de fallas en los circuitos.
+* Lograr identificar y hacer análisis de los fenómenos eléctricos, mediante la resolucion de ejercicios incluso aprender un metodo basico para la hubicacion de fallas en los circuitos.
 
 Objetivos Específicos
 
