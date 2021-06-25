@@ -170,9 +170,13 @@ Objetivos Específicos
 
 Serian 5 mediciones de resistencia en total.
 •	Primero.- Tenemos 32 focos en serie, entre ellos el décimo séptimo foco de la derecha se encuentra  averiado.
+
 •	Segundo.- Aplicamos el método de división con el objetivo de hallar la falla, dividiendo en 2 grupos de 16, dándonos cuenta que en la primera mitad de la izquierda da una resistencia adecuada y dejándonos saber que la falla está en la segunda mitad de la derecha.
+
 •	Tercero.- Como tenemos 16 focos en la mitad de la derecha, donde presento una falla, tenemos que simplificar la medición del error, reduciéndolo a la mitad,  dándonos dos grupos de 8, con el objetivo de saber con más exactitud donde se ubica nuestro foco averiado. 
+
 •	Cuarto.- Sabiendo  que el error se encuentra en el  grupo de 8 focos empezando por la izquierda, solo nos queda reducir aún más el circuito, dividendo en 2 grupos de 4 focos.
+
 •	Quinto.- Ahora que sabemos que nuestro foco averiado se encuentra entre los 4 focos empezando por  la izquierda solo nos queda reducir el circuito una última vez dividiéndolo en dos  grupos de dos y hallaremos nuestro foco fundido.
 
 
