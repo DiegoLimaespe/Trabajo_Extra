@@ -163,6 +163,8 @@ Objetivos Específicos
 
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmímetro mostradas.
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/36.jpg)
+   El foco averiado es el cuarto foco empezando por la izquierda, ya que aplicamos el método de división para facilitarnos la búsqueda de la falla, dividiendo primero por la mitad en 2 grupos de 4 focos y volviendo a dividir en la mitad, dándonos 2 grupos de dos focos y mostrándonos una resistencia infinita en el grupo de dos focos de la derecha, de tal forma que localizamos el foco averiado.
+
 
 
 
