@@ -11,7 +11,7 @@ Materia: Fundamentos de Circuitos Eléctricos
 
  Objetivos Generales
 
-* Comprender cual es la relación entre voltaje, corriente y resistencia para la resolución de circuitos.
+* Comprender cual es la relación entre voltaje, corriente y resistencia para la resolución de circuitos y aprender un metodo basico para la hubicacion de fallas..
 
 Objetivos Específicos
 
