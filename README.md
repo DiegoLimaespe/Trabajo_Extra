@@ -1,6 +1,6 @@
 # Universidad de las Fuerzas Armadas-ESPE
 Nombre: Diego Lima
-Nrc:5416
+_Nrc:5416_
 # trabajo_extra
 
 1. Objetivos
