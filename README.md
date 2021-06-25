@@ -46,9 +46,14 @@ Objetivos Específicos
    f.	el voltaje y la resistencia se duplican.
 
       La corriente no cambiara.
-
-![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/1.jpg)
+2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/2.jpg)
+3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/3.jpg)
+4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/4.jpg)
+
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/5.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/5.2.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/5.1.jpg)
