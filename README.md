@@ -15,8 +15,8 @@ Materia: Fundamentos de Circuitos Eléctricos
 
 Objetivos Específicos
 
-* Calcular la corriente, voltaje y resistencia en un circuito dc, aplicando la ley de ohm.
 * Determinar la relación entre corriente y voltaje
+* Calcular la corriente, voltaje y resistencia en un circuito dc, aplicando la ley de ohm.
 * Analizar un metodo basico de abordar la localizacion de fallas. 
 
 
