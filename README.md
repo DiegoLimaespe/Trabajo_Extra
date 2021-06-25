@@ -65,6 +65,9 @@ Objetivos Específicos
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/7.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/7.1.jpg)
 
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/8.jpg)
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/8.1.jpg)
 3. Conclusiones
 
 * En los circuitos eléctricos la ley de Ohm establece que la tensión V a lo largo de un resistor es directamente proporcional a la corriente I que fluye a través del resistor, la cual nos permite calcular  voltaje, corriente y resistencia en un circuito electrico dc .
