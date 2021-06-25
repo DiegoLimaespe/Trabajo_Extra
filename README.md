@@ -9,12 +9,12 @@ Materia: Fundamentos de Circuitos Eléctricos
 
 1. Objetivos
 
- _Objetivos Generales_
+ Objetivos Generales
 
 * Objetivo 1
 * Objetivo n
 
-_Objetivos Específicos_
+Objetivos Específicos
 
 * Objetivo espe 1
 * Objetivo espe 2
