@@ -105,6 +105,41 @@ Objetivos Específicos
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/18.jpg)
 
+19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/19.jpg)
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/20.jpg)
+
+21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/21.jpg)
+
+22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω  o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/22.jpg)
+
+23. Calcule el voltaje para cada valor de I y R:
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/23.jpg)
+
+24. Calcule el voltaje para cada valor de I y R:
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/24.jpg)
+
+25. Se leen tres amperes de corriente a través de un resistor de 27 Ω conectado a una fuente de voltaje.
+¿Cuánto voltaje produce la fuente?
+![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/25.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 11. Conclusiones
 
 * En los circuitos eléctricos la ley de Ohm establece que la tensión V a lo largo de un resistor es directamente proporcional a la corriente I que fluye a través del resistor, la cual nos permite calcular  voltaje, corriente y resistencia en un circuito electrico dc .
