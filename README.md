@@ -171,7 +171,7 @@ Objetivos Específicos
 
 
 
-11. Conclusiones
+3. Conclusiones
 
 * En los circuitos eléctricos la ley de Ohm establece que la tensión V a lo largo de un resistor es directamente proporcional a la corriente I que fluye a través del resistor, la cual nos permite calcular  voltaje, corriente y resistencia en un circuito electrico dc .
 * El metodo de localizacion de fallas nos permite ubicar con presicion el foco fundido en el circuito electrico , meadiante el razonamiento logico combinado con el conocimiento de la operacion en un circuito. Sin embargo tenemos que tomar en cuenta que entre mas elementos exista en el circuito, mayor sera el numero de divisiones y mediciona a realizar para encontrar el error o el foco averiado .
