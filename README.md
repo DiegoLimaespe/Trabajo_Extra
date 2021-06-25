@@ -62,7 +62,7 @@ _Objetivos Específicos_
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/36.jpg)
 ![](https://github.com/DiegoLimaespe/TRABAJO-EXTRA-FOTOS/blob/main/37.jpg)
 
-3. Conclusiones0
+3. Conclusiones
 
 * ASA
 * ASA
